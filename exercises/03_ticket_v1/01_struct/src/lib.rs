@@ -7,7 +7,7 @@
 
 struct Order {
     price: u32,
-    quantity: u32
+    quantity: u32,
 }
 
 impl Order {
